@@ -1,0 +1,30 @@
+{
+    "name": "Замена значений",
+    "guid": "asc.{0cb3ccb1-3d00-4793-ab16-06e932ed8400}",
+    "baseUrl": "",
+    "variations": [
+        {
+            "description": "Замена значений",
+            "url": "index.html",
+            "icons": [
+                {
+                    "100%": {
+                        "normal": "./resources/img/icon.png"
+                    }
+                }
+            ],
+            "isViewer": false,
+            "EditorsSupport": [
+                "cell"
+            ],
+            "isVisual": false,
+            "isModal": false,
+            "isInsideMode": true,
+            "initDataType": "none",
+            "initData": "",
+            "isUpdateOleOnResize": true,
+            "buttons": [],
+            "isSystem": false
+        }
+    ]
+}
